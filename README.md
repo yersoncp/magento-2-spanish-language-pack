@@ -13,8 +13,6 @@ Find other [language packs here](https://www.mageplaza.com/kb/magento-2-language
 
 ## 2. How to Install Spanish Language Pack
 
-Install the Spanish language pack via composer is never easier.
-
 ```
 
 wget https://raw.githubusercontent.com/yersoncp/magento-2-spanish-language-pack/master/es_PE.csv
