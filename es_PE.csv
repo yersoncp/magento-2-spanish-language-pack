@@ -4148,6 +4148,7 @@
 "The attribute code is invalid. Please use only letters (a-z), numbers (0-9) or underscores (_) in this field. The first character should be a letter.","El código del atributo no es válido. Por favor, usa solo letras (a-z), números (0-9) o guion bajo (_) en este campo. El primer carácter debe ser una letra.",module,Magento_CustomAttributeManagement
 "Sign Out","Cerrar sesión",module,Magento_Customer
 "Sign In","Iniciar sesión",module,Magento_Customer
+"Register", "Regístrate",module,Magento_Customer
 "You are subscribed to our newsletter.","Está suscrito a nuestro boletín de noticias.",module,Magento_Customer
 "You aren't subscribed to our newsletter.","No está suscrito a nuestro boletín de noticias.",module,Magento_Customer
 "You have not set a default shipping address.","No ha establecido una dirección de envío predeterminada.",module,Magento_Customer
