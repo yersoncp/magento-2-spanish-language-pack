@@ -2860,7 +2860,7 @@
 "Apply Discount","Aplicar descuento",module,Magento_Checkout
 "Cancel Coupon","Cancelar el cupón",module,Magento_Checkout
 "Shopping Cart Items","Artículos del carrito",module,Magento_Checkout
-"Item","Articulo",module,Magento_Checkout
+"Item","Artículo",module,Magento_Checkout
 "Price","Precio",module,Magento_Checkout
 "Qty","Cantidad",module,Magento_Checkout
 "Subtotal","Subtotal",module,Magento_Checkout
