@@ -4469,11 +4469,11 @@
 "You have no other address entries in your address book.","No tiene otras entradas de direcciones en la libreta de direcciones.",module,Magento_Customer
 "* Required Fields","* Campos obligatorios",module,Magento_Customer
 "Address","Dirección",module,Magento_Customer
-"Street Address","Dirección postal (Calle, Nº de Casa, Código Postal)",module,Magento_Customer
+"Street Address","Dirección de domicilio (Calle, Nº, Piso)",module,Magento_Customer
 "Street Address %1","Dirección %1",module,Magento_Customer
 "VAT Number","Número de IVA",module,Magento_Customer
-"City","Ciudad",module,Magento_Customer
-"State/Province","Estado/Provincia",module,Magento_Customer
+"City","Distrito",module,Magento_Customer
+"State/Province","Provincia",module,Magento_Customer
 "Please select a region, state or province.","Por favor seleccione región, estado o provincia.",module,Magento_Customer
 "Zip/Postal Code","Código Postal",module,Magento_Customer
 "Country","País",module,Magento_Customer
@@ -4654,7 +4654,7 @@
 "Subscribe to Newsletter","Suscribir al boletín informativo",module,Magento_Customer
 "Are you sure to unsubscribe selected customers from newsletter?","¿Está seguro de dar de baja a clientes seleccionados de newsletter?",module,Magento_Customer
 "Unsubscribe from Newsletter","Cancelar suscripción al boletín informativo",module,Magento_Customer
-"Phone","Teléfono",module,Magento_Customer
+"Phone","Teléfono/celular",module,Magento_Customer
 "ZIP","C.P.",module,Magento_Customer
 "Customer Since","Cliente desde",module,Magento_Customer
 "Confirmed email","Correo electrónico confirmado",module,Magento_Customer
