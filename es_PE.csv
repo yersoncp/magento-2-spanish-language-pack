@@ -1490,7 +1490,7 @@
 "Visibility","Visibilidad",module,Magento_Catalog
 "Status","Estatus",module,Magento_Catalog
 "Price","Precio",module,Magento_Catalog
-"Position","Posición",module,Magento_Catalog
+"Position","Lo más vendidos",module,Magento_Catalog
 "Add Subcategory","Añadir subcategoría",module,Magento_Catalog
 "Add Root Category","Añadir categoría raíz",module,Magento_Catalog
 "Day","Día",module,Magento_Catalog
@@ -1639,7 +1639,7 @@
 "Notify Low Stock RSS","RSS de notificación de bajas cantidades en inventario",module,Magento_Catalog
 "Low Stock Products","Artículos con baja cantidad en inventario",module,Magento_Catalog
 "%1 has reached a quantity of %2.","%1 ha alcanzado una cantidad de %2.",module,Magento_Catalog
-"Home","Página de inicio",module,Magento_Catalog
+"Home","Inicio",module,Magento_Catalog
 "Go to Home Page","Ir a la página de inicio",module,Magento_Catalog
 "Subscribe to RSS Feed","Suscribirse a las noticias por RSS",module,Magento_Catalog
 "Products Comparison List","Lista de Comparación de artículos",module,Magento_Catalog
