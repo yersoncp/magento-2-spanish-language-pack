@@ -2072,7 +2072,7 @@
 "Compare Products","Comparar productos",module,Magento_Catalog
 "Print This Page","Imprimir esta página",module,Magento_Catalog
 "Remove Product","Eliminar artículo",module,Magento_Catalog
-"Add to Cart","Añadir al carrito",module,Magento_Catalog
+"Add to Cart","Agregar",module,Magento_Catalog
 "In stock","Disponible",module,Magento_Catalog
 "Out of stock","No está disponible",module,Magento_Catalog
 "Add to Wish List","Añadir a la Lista de Deseos",module,Magento_Catalog
@@ -2114,8 +2114,8 @@
 "Choose existing category.","Elige categoría existente.",module,Magento_Catalog
 "Sending attribute values as package.","Envío de valores de atributo como paquete.",module,Magento_Catalog
 "Image Detail","Detalles de la imagen",module,Magento_Catalog
-"Adding...","Añadiendo...",module,Magento_Catalog
-"Added","Añadido",module,Magento_Catalog
+"Adding...","Agregando...",module,Magento_Catalog
+"Added","Agregado",module,Magento_Catalog
 "remaining","restantes",module,Magento_Catalog
 "too many","muchos",module,Magento_Catalog
 "does not implement Storage Interface","no implementa la interfaz de almacenamiento",module,Magento_Catalog
@@ -4151,9 +4151,9 @@
 "Register", "Regístrate",module,Magento_Customer
 "You are subscribed to our newsletter.","Está suscrito a nuestro boletín de noticias.",module,Magento_Customer
 "You aren't subscribed to our newsletter.","No está suscrito a nuestro boletín de noticias.",module,Magento_Customer
-"You have not set a default shipping address.","No ha establecido una dirección de envío predeterminada.",module,Magento_Customer
-"You have not set a default billing address.","No ha establecido una dirección de facturación predeterminada.",module,Magento_Customer
-"Address Book","Libreta de direcciones",module,Magento_Customer
+"You have not set a default shipping address.","No ha establecido una dirección de envío.",module,Magento_Customer
+"You have not set a default billing address.","No ha establecido una dirección de facturación.",module,Magento_Customer
+"Address Book","Mis direcciones",module,Magento_Customer
 "Edit Address","Editar dirección",module,Magento_Customer
 "Add New Address","Agregar nueva dirección",module,Magento_Customer
 "region","región",module,Magento_Customer
@@ -4442,7 +4442,7 @@
 "Account Created on (%1):","Cuenta creada en (%1):",module,Magento_Customer
 "Account Created in:","Kundenkonto angelegt in:",module,Magento_Customer
 "Customer Group:","Kundengruppe:",module,Magento_Customer
-"Default Billing Address","Dirección de facturación por defecto",module,Magento_Customer
+"Default Billing Address","Dirección de facturación",module,Magento_Customer
 "Sales Statistics","Estadísticas de Ventas",module,Magento_Customer
 "Web Site","Sitio web",module,Magento_Customer
 "Store","Tienda",module,Magento_Customer
@@ -4452,19 +4452,19 @@
 "All Store Views","Todas las vistas de la tienda",module,Magento_Customer
 "Change","Cambio",module,Magento_Customer
 "Manage Addresses","Gestionar direcciones",module,Magento_Customer
-"Default Shipping Address","Dirección de envío predeterminada",module,Magento_Customer
+"Default Shipping Address","Dirección de envío",module,Magento_Customer
 "Contact Information","Información del contacto",module,Magento_Customer
 "Change Password","Cambiar la contraseña",module,Magento_Customer
 "Newsletters","Boletines informativos",module,Magento_Customer
 "You are subscribed to ""General Subscription"".","Estás suscrito a ""Suscripción general"".",module,Magento_Customer
 "or","o",module,Magento_Customer
 "My Account","Mi Cuenta",module,Magento_Customer
-"Default Addresses","Direcciones (predeterminado)",module,Magento_Customer
+"Default Addresses","Mis direcciones",module,Magento_Customer
 "Change Billing Address","Cambiar la dirección de facturación",module,Magento_Customer
 "You have no default billing address in your address book.","No tiene ninguna dirección de facturación por defecto en su libreta de direcciones.",module,Magento_Customer
 "Change Shipping Address","Cambiar la dirección de envío",module,Magento_Customer
 "You have no default shipping address in your address book.","No tiene ninguna dirección de envío por defecto en su libreta de direcciones.",module,Magento_Customer
-"Additional Address Entries","Entradas adicionales de direcciones postales",module,Magento_Customer
+"Additional Address Entries","Direcciones adicionales",module,Magento_Customer
 "Delete Address","Borrar dirección",module,Magento_Customer
 "You have no other address entries in your address book.","No tiene otras entradas de direcciones en la libreta de direcciones.",module,Magento_Customer
 "* Required Fields","* Campos obligatorios",module,Magento_Customer
@@ -13696,7 +13696,7 @@ Ahora puede seleccionar la fecha de caducidad que desee.",module,Magento_Negotia
 "Wrong request.","Solicitud incorrecta.",module,Magento_Vault
 "Deletion failure. Please try again.","Falla en el borrado. Por favor, inténtelo de nuevo.",module,Magento_Vault
 "Stored Payment Method was successfully removed","El método de pago almacenado ha sido eliminado",module,Magento_Vault
-"Stored Payment Methods","Métodos de pago almacenados",module,Magento_Vault
+"Stored Payment Methods","Métodos de pago",module,Magento_Vault
 "No payment tokens are available for the specified order payment.","No payment tokens are available for the specified order payment.",module,Magento_Vault
 "Card Number","Número de la tarjeta",module,Magento_Vault
 "Expiration Date","Fecha de vencimiento",module,Magento_Vault
