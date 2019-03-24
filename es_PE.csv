@@ -2803,6 +2803,7 @@
 "Your session has expired","Tu sesión ha caducado",module,Magento_Checkout
 "A letter with further instructions will be sent to your email.","Se enviara un correo con mas instrucciones a su cuenta de correo.",module,Magento_Checkout
 "You added %1 to your shopping cart.","Añadiste %1 a tu carrito.",module,Magento_Checkout
+"You added %1 to your <a href="%2">shopping cart</a>","Añadiste %1 a tu <a href="%2">carrito</a>",module,Magento_Checkout
 "We can't add this item to your shopping cart right now.","No podemos añadir este artículo a su carrito de compras ahora mismo.",module,Magento_Checkout
 "Out of stock","Agotado",module,Magento_Checkout
 "The quote item isn't found. Verify the item and try again.","La oración no es encontrada. Verificar e intentar de nuevo.",module,Magento_Checkout
