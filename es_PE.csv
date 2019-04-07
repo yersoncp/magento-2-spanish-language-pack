@@ -2909,7 +2909,7 @@
 "Save in address book","Guardar en libreta de direcciones",module,Magento_Checkout
 "Billing Address","Dirección de facturación",module,Magento_Checkout
 "Estimated Total","Total estimado",module,Magento_Checkout
-"You can create an account after checkout.","Puede crear una cuenta después del cobro.",module,Magento_Checkout
+"You can create an account after checkout.","Puedes crear tu cuenta después del cobro.",module,Magento_Checkout
 "You already have an account with us. Sign in or continue as guest.","Ya tienes una cuenta con nosotros. Ingresar o continuar como invitado.",module,Magento_Checkout
 "Login","Iniciar sesión",module,Magento_Checkout
 "See Details","Ver información",module,Magento_Checkout
