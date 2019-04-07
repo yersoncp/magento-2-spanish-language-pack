@@ -2634,7 +2634,7 @@
 "End Time","Hora de finalización",module,Magento_CatalogRuleStaging
 "Catalog Price Rules","Reglas de precio de catálogo",module,Magento_CatalogRuleStaging
 "Remove Catalog Price Rule from Campaign","Quitar regla de precio de catálogo de la campaña",module,Magento_CatalogRuleStaging
-"Home","Página de inicio",module,Magento_CatalogSearch
+"Home","Inicio",module,Magento_CatalogSearch
 "Go to Home Page","Ir a la página de inicio",module,Magento_CatalogSearch
 "Catalog Advanced Search","Búsqueda avanzada de catálogo",module,Magento_CatalogSearch
 "All","Todo",module,Magento_CatalogSearch
@@ -2930,6 +2930,7 @@
 "View Details","Ver información",module,Magento_Checkout
 "Field","Campo",module,Magento_Checkout
 "is required.","es requerido.",module,Magento_Checkout
+"Enter your destination to get a shipping estimate.","Estimar costo de envío",module,Magento_Checkout
 "Provided Zip/Postal Code seems to be invalid.","El Código Postal parece no ser válido.",module,Magento_Checkout
 "Example:","Ejemplo:",module,Magento_Checkout
 "If you believe it is the right one you can ignore this notice.","Si usted cree que es el correcto, puede ignorar este aviso.",module,Magento_Checkout
@@ -4879,6 +4880,7 @@
 "Confirm New Password","Confirmar contraseña nueva",module,Magento_CustomerCustomAttributes
 "Personal Information","Información Personal",module,Magento_CustomerCustomAttributes
 "Sign Up for Newsletter","Suscribirse al boletín",module,Magento_CustomerCustomAttributes
+"Please enter a valid email address (Ex: johndoe@domain.com).","Introduzca una dirección válida de correo electrónico (Ej: minombre@gmail.com).",module,Magento_CustomerCustomAttributes
 "Address Information","Información de dirección",module,Magento_CustomerCustomAttributes
 "Sign-in Information","Información de inicio de sesión",module,Magento_CustomerCustomAttributes
 "Password","Contraseña",module,Magento_CustomerCustomAttributes
@@ -13757,7 +13759,7 @@ Ahora puede seleccionar la fecha de caducidad que desee.",module,Magento_Negotia
 "Page ID","ID de página",module,Magento_VersionsCms
 "Manage Hierarchies","Administrar las jerarquías",module,Magento_VersionsCms
 "Hierarchy","Jerarquía",module,Magento_VersionsCms
-"Home","Página de inicio",module,Magento_VersionsCms
+"Home","Inicio",module,Magento_VersionsCms
 "Go to Home Page","Ir a la página de inicio",module,Magento_VersionsCms
 "You copied the pages hierarchy to the selected scopes.","Has copiado la jerarquía de las páginas en los alcances seleccionados.",module,Magento_VersionsCms
 "Something went wrong while copying the hierarchy.","Algo salió mal al copiar la jerarquía.",module,Magento_VersionsCms
@@ -14003,7 +14005,7 @@ Ahora puede seleccionar la fecha de caducidad que desee.",module,Magento_Negotia
 "Include FPT In Subtotal","Includir impuestos en el subtotal",module,Magento_Weee
 "Widget Insertion","Inserción del widget",module,Magento_Widget
 "Insert Widget","Insertar aplicación",module,Magento_Widget
-"Cancel","Cancel",module,Magento_Widget
+"Cancel","Cancelar",module,Magento_Widget
 "label","etiqueta",module,Magento_Widget
 "Choose...","Elegir...",module,Magento_Widget
 "Close","Cerrar",module,Magento_Widget
